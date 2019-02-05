@@ -57,22 +57,6 @@
     - [Writing for performance](#writing-for-performance)
   - [Concepts](#concepts)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Professional Programming
-
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe. (Abraham Lincoln)
-
-A collection of full-stack resources for programmers.
-
-The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
-
-This page is not meant to be comprehensive. I am trying to keep it light and not too overwhelming. The selection of articles is opinionated.
-
-## Contributing to this list
-
-Feel free to open a PR to contribute! I will not be adding everything: as stated above, I am trying to keep the list concise.
-
 ## Must read books
 
 I've found these books incredibly inspiring:
